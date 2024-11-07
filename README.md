@@ -2,7 +2,7 @@
 ![Screenshot 2024-11-07 101716](https://github.com/user-attachments/assets/7c252aa3-a09b-48d6-a416-ba4dd366772e)
 
 
-To view app go to link : 
+To view app go to link : https://zingy-bubblegum-bec77a.netlify.app
 
 
 ## Table of Contents
